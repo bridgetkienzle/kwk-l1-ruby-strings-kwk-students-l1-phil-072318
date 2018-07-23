@@ -13,7 +13,7 @@ Your friend Harry Potter was very impressed with the invitations that you create
 ...and then prints out custom invitations that look something like this:
 
 ```
-Dear Hermione,
+Dear #{name},
 
 You are cordially invited to the Best Halloween Party Ever on October 31 at 6pm. Please RSVP no later than October 30.
 
