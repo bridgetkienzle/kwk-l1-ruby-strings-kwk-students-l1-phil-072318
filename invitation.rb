@@ -2,6 +2,7 @@
 
 # Try starting out with puts'ing a string.
 
+puts "Invitation maker, please answer questions."
 puts "What is the guest's name?"
 guest_name = gets.chomp
 puts "What's the name of the party?"
