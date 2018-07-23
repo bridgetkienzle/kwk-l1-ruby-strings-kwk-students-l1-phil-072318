@@ -2,10 +2,14 @@
 
 # Try starting out with puts'ing a string.
 
+guest_
+
+
+
 puts "Dear #{guest_name},
 
-You are cordially invited to  Ever on October 31 at 6pm. Please RSVP no later than October 30.
+You are cordially invited to  #{party_name} on #{date} at #{time}.
 
 Sincerely,
 
-Harry Potter"
+#{host_name}"
